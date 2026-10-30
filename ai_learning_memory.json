@@ -1,0 +1,76 @@
+{
+  "version": "1.0",
+  "total_analyzed_videos": 3,
+  "total_successful_clips": 5,
+  "query_stats": {
+    "military uav surveillance drone 4k": {
+      "uses": 2,
+      "success": 2,
+      "fails": 0,
+      "clips": 5,
+      "score": 8.25
+    }
+  },
+  "channel_stats": {
+    "ViewCG": {
+      "success": 0,
+      "fails": 1,
+      "clips": 0,
+      "rating": -1.2
+    },
+    "Northrop Grumman": {
+      "success": 1,
+      "fails": 0,
+      "clips": 4,
+      "rating": 4.0
+    },
+    "Battlefield Sources": {
+      "success": 1,
+      "fails": 0,
+      "clips": 1,
+      "rating": 1.75
+    }
+  },
+  "positive_keywords": {
+    "unmatched": 2.0,
+    "surveillance": 2.5,
+    "mq-4c": 2.0,
+    "triton": 2.0,
+    "unmatched surveillance": 2.0,
+    "surveillance mq-4c": 2.0,
+    "mq-4c triton": 2.0,
+    "eye": 0.5,
+    "sky": 0.5,
+    "launched": 0.5,
+    "base": 0.5,
+    "afghanistan": 0.5,
+    "uav": 0.5,
+    "launch": 0.5,
+    "eye sky": 0.5,
+    "sky launched": 0.5,
+    "launched base": 0.5,
+    "base afghanistan": 0.5,
+    "afghanistan surveillance": 0.5,
+    "surveillance uav": 0.5,
+    "uav launch": 0.5
+  },
+  "negative_keywords": {
+    "anduril": 1,
+    "ghost": 1,
+    "uav": 1,
+    "military": 1,
+    "surveillance": 1,
+    "model": 1
+  },
+  "smart_queries": [
+    "unmatched surveillance drone 4k top down",
+    "unmatched surveillance aerial view 4k",
+    "unmatched surveillance вид сверху 4k",
+    "surveillance mq-4c drone 4k top down",
+    "surveillance mq-4c aerial view 4k",
+    "surveillance mq-4c вид сверху 4k",
+    "mq-4c triton drone 4k top down",
+    "mq-4c triton aerial view 4k",
+    "mq-4c triton вид сверху 4k"
+  ]
+}

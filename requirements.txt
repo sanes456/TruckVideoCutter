@@ -1,0 +1,5 @@
+customtkinter>=5.2.0
+yt-dlp>=2024.0.0
+opencv-python>=4.8.0
+ultralytics>=8.0.0
+requests>=2.31.0

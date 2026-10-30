@@ -1,0 +1,39 @@
+# Python virtual environment
+.venv/
+venv/
+env/
+ENV/
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyd
+
+# Temporary files & working folders
+temp/
+*.tmp
+
+# Generated media outputs (clips, downloads)
+output_videos/
+*.mp4
+*.mkv
+*.webm
+*.avi
+
+# Sensitive user credentials and session data
+cookies.txt
+*cookie*.txt
+
+# Local history
+downloaded_history.json
+
+# Local binaries (ffmpeg / ffprobe)
+bin/*.exe
+bin/*.zip
+
+# IDE & OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
